@@ -1,0 +1,5 @@
+﻿  algorithm1.c
+c:\users\minyo\desktop\2학년 2학기\컴퓨터알고리즘\algorithm1\algorithm1\algorithm1.c(146): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  algorithm1.vcxproj -> C:\Users\minyo\Desktop\2학년 2학기\컴퓨터알고리즘\algorithm1\Debug\algorithm1.exe
+  algorithm1.vcxproj -> C:\Users\minyo\Desktop\2학년 2학기\컴퓨터알고리즘\algorithm1\Debug\algorithm1.pdb (Full PDB)
